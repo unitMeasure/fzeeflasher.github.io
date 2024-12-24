@@ -158,15 +158,28 @@ const MS3previousFiles = {
     'boot_app0': 'resources/STATIC/M/FLIPMULTI/boot_app0.bin',
     'firmware': 'resources/PREVIOUS/esp32_marauder_v1_1_0_20241128_multiboardS3.bin',
 };
-// Latest Marauder for ESP32-S3
+// // Latest Marauder for ESP32-S3
+// const MS3latestFiles = {
+//     'bootloader': 'resources/STATIC/M/FLIPMULTI/esp32_marauder.ino.bootloader.bin',
+//     'partitions': 'resources/STATIC/M/FLIPMULTI/esp32_marauder.ino.partitions.bin',
+//     'boot_app0': 'resources/STATIC/M/FLIPMULTI/boot_app0.bin',
+//     'firmware': 'resources/CURRENT/esp32_marauder_v1_2_0_12192024_multiboardS3.bin',
+// };
+
+// Latest AVI for ESP32-S3
 const MS3latestFiles = {
     'bootloader': 'resources/STATIC/M/FLIPMULTI/esp32_marauder.ino.bootloader.bin',
     'partitions': 'resources/STATIC/M/FLIPMULTI/esp32_marauder.ino.partitions.bin',
     'boot_app0': 'resources/STATIC/M/FLIPMULTI/boot_app0.bin',
-    'firmware': 'resources/CURRENT/esp32_marauder_v1_2_0_12192024_multiboardS3.bin',
+    'firmware': 'resources/CURRENT/resources/STATIC/AVI/esp32_marauder.esp32_s3_8mb.bin',
 };
-
-
+// // Prev AVI for ESP32-S3
+// const AS3previousFiles = {
+//     'bootloader': 'resources/STATIC/M/FLIPMULTI/esp32_marauder.ino.bootloader.bin',
+//     'partitions': 'resources/STATIC/M/FLIPMULTI/esp32_marauder.ino.partitions.bin',
+//     'boot_app0': 'resources/STATIC/M/FLIPMULTI/boot_app0.bin',
+//     'firmware': 'resources/CURRENT/resources/STATIC/AVI/esp32_marauder.esp32_s3_4mb.bin',
+// };
 
 // Previous Marauder for Flipper Dev Pro
 const MDevPropreviousFiles = {
